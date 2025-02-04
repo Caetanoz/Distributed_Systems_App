@@ -1,0 +1,4 @@
+gil:gil:Coordenador Regional
+caetano:caetano:Operador de Nivel Baixo
+lol:lol:Operador de Nivel Medio
+ivo:ivo:Administrador
